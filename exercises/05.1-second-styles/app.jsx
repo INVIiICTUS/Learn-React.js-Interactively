@@ -6,13 +6,14 @@ const buttonStyles = {
 	//write button styles here
 	background: "yellow",
 	color: "black",
-	border: "none"
+	border: "none",
 };
 
 const badgeStyles = {
 	//write the span styles here
 	background: "red",
-	borderRadius: "50%"
+	color: "white",
+	borderRadius: "50%",
 };
 
 const Badge = (props) => {
